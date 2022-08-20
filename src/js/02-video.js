@@ -22,3 +22,4 @@ const onPlay = e => {
 const throttled = throttle(onPlay, 1000);
 
 player.on('timeupdate', throttled);
+
