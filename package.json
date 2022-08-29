@@ -1,19 +1,19 @@
 {
-  "name": "goit-hw-08",
+  "name": "goit-jshw-08",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://StepanKarpyak.github.io/goit-js-hw-08/",
+  "homepage": "https://github.com/VeRoNi4kAa/goit-jshw-08/",
   "scripts": {
     "dev": "parcel src/index.html -p 3000 --open",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/StepanKarpyak/goit-js-hw-08"
+    "url": "https://github.com/VeRoNi4kAa/goit-jshw-08/"
   },
   "keywords": [],
-  "author": "StepanKarpyak <stepan_karpyak@ukr.net>",
+  "author": "Veronika Kovalenko <podaritebegemotika@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
